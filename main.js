@@ -1,1 +1,1 @@
-console.log(`abe`);
+console.log(`Amad`);
