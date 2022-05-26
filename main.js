@@ -2,8 +2,8 @@
 
 
 const abraham = 40 
-const abe = 'abe'
+//const abe = 'abe'
 console.log(`abe`);
 console.log(abraham);
-console.log(`is ${abe} ${abraham}`)
+console.log(`is abe ${abraham}`)
 
