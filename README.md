@@ -20,3 +20,17 @@ The data is provided by the [NYC Open Data API](https://opendata.cityofnewyork.u
 
  - When the user clicks on on the "toggle police response" button, it should then toggle how the police responded to that particular complaint
  - Make sure it only toggles the response for that one complaint, not the entire list!
+
+ ## Contribute
+
+ If you want to contribute to the project:
+
+ 1. Fork and clone this project.
+ 2. Run the program on your local computer
+ 3. Add your new changes to the app
+ 4. When your're ready:
+    - git add .
+    - git commit -m 'add details about your changes'
+    - git push 
+    - Finally go into GitHub and create a new pull request.
+    - You can also send me a message in slack, and let me know that you submitted a new pull request.
